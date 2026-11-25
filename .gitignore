@@ -1,0 +1,7 @@
+.venv/
+dist/
+build/
+__pycache__/
+*.pyc
+packaging/assoc_cleanup.nsh
+github-upload/
